@@ -1,0 +1,12 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\egork\OneDrive\Рабочий стол\Console\ConsoleApplication1\ConsoleApplication5\ConsoleApplication5.cpp(12,10): error C2678: бинарный "-": не найден оператор, принимающий левый операнд типа "std::ostream" (или приемлемое преобразование отсутствует)
+  C:\Users\egork\OneDrive\Рабочий стол\Console\ConsoleApplication1\ConsoleApplication5\ConsoleApplication5.cpp(12,10):
+  может быть "встроенный оператор C++ -(int)"
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xutility(1775,5):
+  или       "unknown-type std::operator -(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.38.33130\include\xutility(4326,30):
+  или       "unknown-type std::operator -(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+  C:\Users\egork\OneDrive\Рабочий стол\Console\ConsoleApplication1\ConsoleApplication5\ConsoleApplication5.cpp(12,10):
+  при попытке сопоставить список аргументов "(std::ostream)"
+  
+C:\Users\egork\OneDrive\Рабочий стол\Console\ConsoleApplication1\ConsoleApplication5\ConsoleApplication5.cpp(9,17): error C2088: -: недопустимо для class
